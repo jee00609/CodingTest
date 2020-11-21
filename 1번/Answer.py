@@ -24,6 +24,3 @@ class Solution:
                 
             return max(arr)
         
-        
-test = Solution()
-test.solution([8,6,7,3,1,4,5,4,5,5,10,7,1])
